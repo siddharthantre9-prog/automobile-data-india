@@ -1,0 +1,57 @@
+[
+  {
+    "car": "Tata Nexon",
+    "segment": "Compact SUV",
+    "price_range": "8L - 15L",
+    "fuel_type": ["Petrol", "Diesel", "EV"],
+    "engine": "1.2L Turbo Petrol / 1.5L Diesel",
+    "mileage": "17 kmpl (Petrol), 23 kmpl (Diesel)",
+    "transmission": ["Manual", "AMT"],
+    "key_features": ["5 Star Safety", "Sunroof", "Touchscreen"],
+    "body_type": "SUV"
+  },
+  {
+    "car": "Hyundai Creta",
+    "segment": "Mid Size SUV",
+    "price_range": "11L - 20L",
+    "fuel_type": ["Petrol", "Diesel"],
+    "engine": "1.5L Petrol / 1.5L Diesel",
+    "mileage": "17 kmpl",
+    "transmission": ["Manual", "CVT", "DCT"],
+    "key_features": ["Panoramic Sunroof", "ADAS", "Ventilated Seats"],
+    "body_type": "SUV"
+  },
+  {
+    "car": "Kia Seltos",
+    "segment": "Mid Size SUV",
+    "price_range": "11L - 20L",
+    "fuel_type": ["Petrol", "Diesel"],
+    "engine": "1.5L Petrol / 1.5L Diesel",
+    "mileage": "16.5 kmpl",
+    "transmission": ["Manual", "iMT", "DCT"],
+    "key_features": ["ADAS", "360 Camera", "Bose Sound"],
+    "body_type": "SUV"
+  },
+  {
+    "car": "Maruti Brezza",
+    "segment": "Compact SUV",
+    "price_range": "8.5L - 14L",
+    "fuel_type": ["Petrol", "CNG"],
+    "engine": "1.5L Petrol",
+    "mileage": "19 kmpl",
+    "transmission": ["Manual", "Automatic"],
+    "key_features": ["Mileage", "Reliability", "Low Maintenance"],
+    "body_type": "SUV"
+  },
+  {
+    "car": "Mahindra Scorpio N",
+    "segment": "Full Size SUV",
+    "price_range": "13L - 24L",
+    "fuel_type": ["Petrol", "Diesel"],
+    "engine": "2.0L Turbo Petrol / 2.2L Diesel",
+    "mileage": "15 kmpl",
+    "transmission": ["Manual", "Automatic"],
+    "key_features": ["RWD/AWD", "Big Size", "Powerful Engine"],
+    "body_type": "SUV"
+  }
+]
